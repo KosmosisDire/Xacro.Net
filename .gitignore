@@ -368,3 +368,7 @@ test:.cs
 
 
 tests
+test
+output
+outputs
+build
